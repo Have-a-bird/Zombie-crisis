@@ -1,0 +1,13 @@
+
+gem_s.png
+size: 39,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gem
+  rotate: false
+  xy: 0, 0
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+JiangShiBiaoTi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti
+  rotate: false
+  xy: 2, 133
+  size: 405, 99
+  orig: 405, 99
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 2, 234
+  size: 516, 14
+  orig: 516, 14
+  offset: 0, 0
+  index: -1
+chilun
+  rotate: true
+  xy: 2, 2
+  size: 13, 100
+  orig: 13, 100
+  offset: 0, 0
+  index: -1
+fubiaoti11
+  rotate: false
+  xy: 520, 192
+  size: 241, 56
+  orig: 241, 56
+  offset: 0, 0
+  index: -1
+yanhuo
+  rotate: false
+  xy: 2, 17
+  size: 385, 114
+  orig: 387, 114
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,212 @@
+//每个line为一个完整路径
+//由若干个point组成
+<line>
+	<point>
+		position=37,97;
+	</point>
+	<point>
+		position=280,130;
+		turn=1;
+	</point>
+	
+</line>
+<line>
+	<point>
+		position=22,420;
+	</point>
+	<point>
+		position=113,375;
+		turn=1;
+	
+	</point>
+	<point>
+		position=320,345;
+	turn=1;
+	
+	</point>
+	<point>
+		position=320,220;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=140,480;
+	</point>
+	<point>
+		position=140,400;
+	
+	</point>
+	<point>
+		position=340,370;
+	
+	</point>
+	<point>
+		position=340,220;
+	
+	</point>
+
+	<point>
+		position=330,220;
+	
+	</point>
+	
+</line>
+<line>
+	<point>
+		position=160,262;
+	</point>
+	<point>
+		position=160,150;
+		
+	</point>
+	<point>
+		position=320,150;
+	
+	</point>
+
+
+</line>
+<line>
+	<point>
+		position=380,480;
+	</point>
+	<point>
+		position=380,330;
+	</point>
+	<point>
+		position=340,200,440,200;
+	</point>
+
+</line>
+
+<line>
+	<point>
+		position=517,400;
+	</point>
+	<point>
+		position=517,300;
+	</point>
+	<point>
+		position=430,240,450,200;
+	</point>
+
+</line>
+
+<line>
+	<point>
+		position=630,470;
+	</point>
+	<point>
+		position=630,290;
+	</point>
+	<point>
+		position=510,200;
+	</point>
+
+</line>
+<line>
+	<point>
+		position=768,373;
+	</point>
+	<point>
+		position=663,342;
+			turn=1;
+	</point>
+	<point>
+		position=626,240;
+	</point>
+	<point>
+		position=560,190;
+	</point>
+
+</line>
+<line>
+	<point>
+		position=782,250;
+	</point>
+	<point>
+		position=697,250;
+	</point>
+
+	<point>
+		position=697,180;
+		
+	</point>
+	<point>
+		position=556,180;
+	</point>
+
+
+</line>
+//宝箱怪专用路
+<line>
+	<point>
+		position=360,480;
+	</point>
+	<point>
+		position=360,245;
+	</point>
+
+	<point>
+		position=810,245;
+		
+	</point>
+
+
+
+</line>
+
+
+
+ 
+//场景内碰撞(会阻挡子弹)
+//由若干个点组成线
+<collision>
+	<ammo>
+		position=41,476,42,391,18,377,19,328,14,292;
+	</ammo>
+	<ammo>
+		position=3,119,36,79,18,45,66,4;
+	</ammo>
+	<ammo>
+		position=507,49,559,49;
+	</ammo>
+	<ammo>
+		position=727,9,730,54,751,35,786,82,785,142;
+	</ammo>
+	<ammo>
+		position=774,232,773,478;
+	</ammo>
+	<ammo>
+		position=21,253,142,195;
+	</ammo>
+	<ammo>
+		position=128,161,186,182,226,175;
+	</ammo>
+	
+</collision>
+//遮挡
+<mask>
+	<bitmap>
+		position=746,352;
+	</bitmap>
+	<bitmap>
+		position=751,225;
+	</bitmap>
+	<bitmap>
+		position=483,418;
+	</bitmap>
+	<bitmap>
+		position=0,250;
+	</bitmap>
+	<bitmap>
+		position=0,375;
+	</bitmap>
+	<bitmap>
+		position=0,98;
+	</bitmap>
+
+		
+</mask>

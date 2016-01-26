@@ -1,0 +1,158 @@
+enemy8.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemyzg
+  rotate: false
+  xy: 2, 650
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 3
+enemyzm
+  rotate: false
+  xy: 2, 326
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 4
+enemyzm
+  rotate: false
+  xy: 2, 2
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 8
+enemycm
+  rotate: false
+  xy: 2, 1379
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 2
+enemycg
+  rotate: false
+  xy: 2, 1703
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 1
+enemycm
+  rotate: false
+  xy: 2, 1055
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 6
+enemyzm
+  rotate: false
+  xy: 2, 245
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 5
+enemyzm
+  rotate: false
+  xy: 2, 569
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 1
+enemycm
+  rotate: false
+  xy: 2, 1298
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 3
+enemycg
+  rotate: false
+  xy: 2, 1622
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 2
+enemycm
+  rotate: false
+  xy: 2, 974
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 7
+enemyzg
+  rotate: false
+  xy: 2, 812
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 1
+enemyzm
+  rotate: false
+  xy: 2, 488
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 2
+enemyzm
+  rotate: false
+  xy: 2, 164
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 6
+enemycg
+  rotate: false
+  xy: 2, 1541
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 3
+enemycm
+  rotate: false
+  xy: 2, 1217
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 4
+enemycm
+  rotate: false
+  xy: 2, 893
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 8
+enemyzg
+  rotate: false
+  xy: 2, 731
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 2
+enemyzm
+  rotate: false
+  xy: 2, 407
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 3
+enemyzm
+  rotate: false
+  xy: 2, 83
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 7
+enemycm
+  rotate: false
+  xy: 2, 1136
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 5
+enemycm
+  rotate: false
+  xy: 2, 1460
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: 1

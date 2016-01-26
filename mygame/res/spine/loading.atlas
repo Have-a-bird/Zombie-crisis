@@ -1,0 +1,90 @@
+
+loading.png
+size: 1009,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackStick
+  rotate: false
+  xy: 217, 41
+  size: 148, 10
+  orig: 148, 10
+  offset: 0, 0
+  index: -1
+loadingLine
+  rotate: false
+  xy: 2, 2
+  size: 189, 35
+  orig: 189, 35
+  offset: 0, 0
+  index: -1
+loadingText
+  rotate: false
+  xy: 783, 119
+  size: 79, 25
+  orig: 79, 25
+  offset: 0, 0
+  index: -1
+r1
+  rotate: false
+  xy: 901, 145
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 623, 99
+  size: 158, 153
+  orig: 205, 205
+  offset: 26, 23
+  index: -1
+r3
+  rotate: false
+  xy: 428, 55
+  size: 193, 197
+  orig: 205, 205
+  offset: 6, 1
+  index: -1
+r4
+  rotate: false
+  xy: 2, 39
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+r5
+  rotate: false
+  xy: 623, 29
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+r6
+  rotate: false
+  xy: 217, 53
+  size: 209, 199
+  orig: 209, 199
+  offset: 0, 0
+  index: -1
+r7
+  rotate: false
+  xy: 783, 146
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+trangle
+  rotate: false
+  xy: 683, 35
+  size: 42, 50
+  orig: 52, 52
+  offset: 10, 1
+  index: -1
+yellowStick
+  rotate: false
+  xy: 623, 87
+  size: 148, 10
+  orig: 148, 10
+  offset: 0, 0
+  index: -1

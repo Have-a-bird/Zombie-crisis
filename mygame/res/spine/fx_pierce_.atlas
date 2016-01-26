@@ -1,0 +1,13 @@
+
+fx_pierce_.png
+size: 66,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_pierce
+  rotate: false
+  xy: 2, 2
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1

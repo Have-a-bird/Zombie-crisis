@@ -1,0 +1,32 @@
+boss1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemyMove
+  rotate: false
+  xy: 2, 2
+  size: 230, 204
+  orig: 230, 204
+  offset: 0, 0
+  index: 2
+enemyMove
+  rotate: false
+  xy: 234, 2
+  size: 230, 204
+  orig: 230, 204
+  offset: 0, 0
+  index: 1
+enemyGj
+  rotate: false
+  xy: 698, 2
+  size: 230, 204
+  orig: 230, 204
+  offset: 0, 0
+  index: 1
+enemyGj
+  rotate: false
+  xy: 466, 2
+  size: 230, 204
+  orig: 230, 204
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,55 @@
+
+jineng1.png
+size: 923,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/0
+  rotate: false
+  xy: 683, 180
+  size: 239, 186
+  orig: 308, 291
+  offset: 69, 98
+  index: -1
+baozha/1
+  rotate: false
+  xy: 1, 87
+  size: 207, 279
+  orig: 308, 291
+  offset: 27, 12
+  index: -1
+baozha/2
+  rotate: false
+  xy: 209, 135
+  size: 241, 231
+  orig: 308, 291
+  offset: 10, 0
+  index: -1
+baozha/3
+  rotate: false
+  xy: 451, 169
+  size: 231, 197
+  orig: 308, 291
+  offset: 0, 15
+  index: -1
+baozha/4
+  rotate: false
+  xy: 451, 10
+  size: 223, 158
+  orig: 308, 291
+  offset: 9, 12
+  index: -1
+baozha/5
+  rotate: false
+  xy: 683, 26
+  size: 212, 153
+  orig: 308, 291
+  offset: 14, 19
+  index: -1
+baozha/6
+  rotate: false
+  xy: 209, 1
+  size: 214, 133
+  orig: 308, 291
+  offset: 11, 21
+  index: -1

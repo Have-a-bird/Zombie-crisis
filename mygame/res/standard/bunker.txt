@@ -1,0 +1,53 @@
+bunker.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bunkerSpike
+  rotate: false
+  xy: 2, 2
+  size: 238, 151
+  orig: 238, 151
+  offset: 0, 0
+  index: -1
+bunker
+  rotate: false
+  xy: 700, 121
+  size: 227, 117
+  orig: 227, 117
+  offset: 0, 0
+  index: 1
+bunker
+  rotate: false
+  xy: 471, 121
+  size: 227, 117
+  orig: 227, 117
+  offset: 0, 0
+  index: 2
+bunker
+  rotate: false
+  xy: 700, 2
+  size: 227, 117
+  orig: 227, 117
+  offset: 0, 0
+  index: 3
+bunker
+  rotate: false
+  xy: 471, 2
+  size: 227, 117
+  orig: 227, 117
+  offset: 0, 0
+  index: 4
+bunker
+  rotate: false
+  xy: 242, 121
+  size: 227, 117
+  orig: 227, 117
+  offset: 0, 0
+  index: 5
+bunker
+  rotate: false
+  xy: 242, 2
+  size: 227, 117
+  orig: 227, 117
+  offset: 0, 0
+  index: 6

@@ -1,0 +1,21 @@
+#ifdef GL_ES
+precision mediump float;
+#endif
+varying vec4 v_color;
+varying vec2 v_texCoords;
+uniform sampler2D u_texture;
+uniform float u_amount;
+
+
+void main(void)
+{
+    vec4 color = v_color * texture2D(u_texture, v_texCoords);
+    float grayscale = dot(color.rgb, vec3(0.222, 0.707, 0.071));
+    vec4 dcolor=vec4(0.0, 0.0, 0.0, 1.0 );
+    vec4 rcolor=vec4(1.0, 0.0, 0.0, 1.0 );
+    color.rgb = mix(color.rgb, vec3(grayscale), u_amount);//*dcolor;
+    vec4 mcolor=dcolor-color;
+    color=dcolor-color;
+    color=rcolor-color;
+    gl_FragColor = color;
+}

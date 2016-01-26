@@ -1,0 +1,71 @@
+<base>
+	bitmap=map1;
+</base>
+<wave>
+	<gift>
+	//	time=10;
+	//	weapon=1;
+	</gift>
+	<timer>
+		time=1;
+		in=0;
+		enemy=1,2,15;
+		ratio=70,25,5;
+		step=16;
+		number=15;
+		red=0;
+		green=0;
+	</timer>
+	<timer>
+		time=1;
+		in=1;
+		enemy=1,2,15;
+		ratio=70,25,5;
+		step=16;
+		number=15;
+		red=0;
+		green=0;
+	</timer>
+	<timer>
+		time=1;
+		in=2;
+		enemy=1,2,15;
+		ratio=70,25,5;
+		step=16;
+		number=15;
+		red=0;
+		green=0;
+	</timer>
+//spc
+	<timer>
+		time=15;
+		in=0;
+		enemy=3;
+		ratio=100;
+		step=16;
+		number=2;
+		red=0;
+		green=0;
+	</timer>
+	<timer>
+		time=15;
+		in=1;
+		enemy=3;
+		ratio=100;
+		step=16;
+		number=2;
+		red=0;
+		green=0;
+	</timer>
+	<timer>
+		time=15;
+		in=2;
+		enemy=3;
+		ratio=100;
+		step=16;
+		number=2;
+		red=0;
+		green=0;
+	</timer>
+<
+</wave>

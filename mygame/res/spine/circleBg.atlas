@@ -1,0 +1,41 @@
+
+circleBg.png
+size: 676,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+accessaryEquipLocked
+  rotate: true
+  xy: 631, 13
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+circle01
+  rotate: false
+  xy: 217, 10
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+circle02
+  rotate: false
+  xy: 424, 10
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+circle03
+  rotate: false
+  xy: 2, 2
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 631, 47
+  size: 168, 43
+  orig: 168, 43
+  offset: 0, 0
+  index: -1

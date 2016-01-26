@@ -1,0 +1,76 @@
+
+shop.png
+size: 778,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold12w
+  rotate: true
+  xy: 2, 160
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+gold50w
+  rotate: true
+  xy: 229, 160
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+gold5w
+  rotate: true
+  xy: 456, 160
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+money150
+  rotate: true
+  xy: 229, 2
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+money500
+  rotate: true
+  xy: 456, 2
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+money60
+  rotate: true
+  xy: 2, 2
+  size: 156, 225
+  orig: 156, 225
+  offset: 0, 0
+  index: -1
+recommend
+  rotate: false
+  xy: 683, 254
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+superValue
+  rotate: false
+  xy: 683, 190
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+titleGold
+  rotate: true
+  xy: 683, 30
+  size: 158, 46
+  orig: 158, 46
+  offset: 0, 0
+  index: -1
+titleMoney
+  rotate: true
+  xy: 731, 32
+  size: 156, 45
+  orig: 156, 45
+  offset: 0, 0
+  index: -1

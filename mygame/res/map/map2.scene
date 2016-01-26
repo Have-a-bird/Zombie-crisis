@@ -1,0 +1,143 @@
+//每个line为一个完整路径
+//由若干个point组成
+<line>
+	<point>
+		position=0,120;
+	</point>
+	<point>
+		position=270,120;
+	</point>
+	
+</line>
+<line>
+	<point>
+		position=0,340;
+	</point>
+	<point>
+		position=115,340;
+	
+	</point>
+	<point>
+		position=115,265;
+	
+	
+	</point>
+	<point>
+		position=240,220;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=302,460;
+	</point>
+	<point>
+		position=302,370;
+	
+	</point>
+		<point>
+		position=354,288;
+	
+	</point>
+		<point>
+		position=354,240;
+	
+	</point>
+	
+</line>
+<line>
+	<point>
+		position=495,445;
+	</point>
+	<point>
+		position=495,365;
+		
+	</point>
+	<point>
+		position=495,230,550,272;
+	
+	</point>
+	<point>
+		position=495,150;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=660,455;
+	</point>
+	<point>
+		position=649,395;
+	</point>
+	<point>
+		position=649,330;
+	</point>
+	<point>
+		position=590,230,650,150;
+	</point>
+
+</line>
+//宝箱怪专用路径
+ <line>
+	<point>
+		position=660,455;
+	</point>
+	<point>
+		position=649,330;
+	</point>
+	<point>
+		position=-10,340;
+	</point>
+
+
+</line>
+//场景内碰撞(会阻挡子弹)
+//由若干个点组成线
+<collision>
+	<ammo>
+		position=32,478,37,380;
+	</ammo>
+	<ammo>
+		position=28,314,37,267,53,150;
+	</ammo>
+	<ammo>
+		position=49,99,56,29,156,20;
+	</ammo>
+	<ammo>
+		position=175,52,235,52;
+	</ammo>
+	<ammo>
+		position=368,58,466,55;
+	</ammo>
+	<ammo>
+		position=536,55,631,59;
+	</ammo>
+	<ammo>
+		position=689,59,706,92,726,67,771,55,791,163;
+	</ammo>
+	<ammo>
+		position=689,59,706,92,726,67,771,55,791,163;
+	</ammo>
+	<ammo>
+		position=741,188,750,215,798,214;
+	</ammo>
+</collision>
+//遮挡
+<mask>
+	<bitmap>
+		position=624,452;
+	</bitmap>
+		<bitmap>
+		position=461,449;
+	</bitmap>
+		<bitmap>
+		position=0,312;
+	</bitmap>
+	<bitmap>
+		position=0,83;
+	</bitmap>
+
+		
+</mask>

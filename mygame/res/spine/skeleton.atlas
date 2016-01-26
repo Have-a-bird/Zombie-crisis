@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 424,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOGO1
+  rotate: false
+  xy: 220, 219
+  size: 174, 205
+  orig: 174, 205
+  offset: 0, 0
+  index: -1
+LOGO2
+  rotate: true
+  xy: 2, 2
+  size: 204, 205
+  orig: 204, 205
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 208
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+biankuang
+  rotate: false
+  xy: 209, 159
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+xiaoguo
+  rotate: true
+  xy: 396, 208
+  size: 216, 17
+  orig: 216, 17
+  offset: 0, 0
+  index: -1

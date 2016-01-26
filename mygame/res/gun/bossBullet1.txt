@@ -1,0 +1,39 @@
+bossBullet1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blockA_
+  rotate: false
+  xy: 51, 1
+  size: 47, 50
+  orig: 49, 50
+  offset: 2, 0
+  index: 2
+blockA_
+  rotate: false
+  xy: 1, 1
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: 1
+zidanA_
+  rotate: false
+  xy: 32, 52
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: 1
+zidanB_
+  rotate: false
+  xy: 63, 52
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: 1
+wfireA
+  rotate: false
+  xy: 1, 52
+  size: 30, 58
+  orig: 30, 60
+  offset: 0, 2
+  index: -1

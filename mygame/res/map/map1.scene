@@ -1,0 +1,120 @@
+//每个line为一个完整路径
+//由若干个point组成
+<line>
+	<point>
+		position=0,393,40,435;
+	</point>
+	<point>
+		position=40,393;
+	</point>
+	<point>
+		position=92,340,180,340;
+	</point>
+	<point>
+		position=95,232,178,270;
+	</point>
+	<point>
+		position=180,150;
+	</point>
+</line>
+<line>
+	<point>
+		position=372,444;
+	</point>
+	<point>
+		position=372,355;
+	</point>
+	<point>
+		position=330,325,430,325;
+	
+	</point>
+	<point>
+		position=330,240,430,240;
+	</point>
+
+</line>
+<line>
+	<point>
+		position=786,426;
+	</point>
+	<point>
+		position=685,353;
+		turn=1;
+	</point>
+	<point>
+		position=621,330;
+		turn=1;
+	</point>
+	<point>
+		position=530,240,621,240;
+	</point>
+	<point>
+		position=530,150;
+	</point>
+</line>
+<line>
+	<point>
+		position=-10,190;
+	</point>
+	<point>
+		position=100,190;
+	</point>
+	<point>
+		position=100,150;
+	</point>
+	<point>
+		position=230,150;
+	</point>
+</line>
+<line>
+	<point>
+		position=800,150;
+	</point>
+	<point>
+		position=530,150;
+	</point>
+</line>
+//宝箱怪用路径
+<line>
+	<point>
+		position=0,393;
+	</point>
+	<point>
+		position=210,315;
+	turn=1;
+	</point>
+	<point>
+		position=560,315;
+
+	</point>
+	<point>
+		position=810,445;
+	turn=1;
+	</point>
+</line>
+//场景内碰撞(会阻挡子弹)
+//由若干个点组成线
+<collision>
+	<ammo>
+		position=27,21,59,43;
+	</ammo>
+	<ammo>
+		position=176,48,208,68,269,36,319,61,354,21,409,29,320,56,503,15;
+	</ammo>
+	<ammo>
+		position=741,13,764,4,792,30;
+	</ammo>
+</collision>
+//遮挡
+<mask>
+	<bitmap>
+		position=732,410;
+	</bitmap>
+		<bitmap>
+		position=323,416;
+	</bitmap>
+		<bitmap>
+		position=0,378;
+	</bitmap>
+		
+</mask>

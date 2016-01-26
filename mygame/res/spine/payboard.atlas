@@ -1,0 +1,201 @@
+
+payboard.png
+size: 1023,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/defense/01
+  rotate: true
+  xy: 973, 228
+  size: 305, 48
+  orig: 305, 48
+  offset: 0, 0
+  index: -1
+image/defense/02
+  rotate: true
+  xy: 884, 186
+  size: 347, 87
+  orig: 347, 87
+  offset: 0, 0
+  index: -1
+image/defense/03
+  rotate: true
+  xy: 744, 576
+  size: 446, 153
+  orig: 446, 153
+  offset: 0, 0
+  index: -1
+image/diban
+  rotate: false
+  xy: 2, 595
+  size: 740, 427
+  orig: 740, 427
+  offset: 0, 0
+  index: -1
+image/gold/01
+  rotate: false
+  xy: 2, 286
+  size: 508, 307
+  orig: 508, 307
+  offset: 0, 0
+  index: -1
+image/gold/02
+  rotate: false
+  xy: 356, 2
+  size: 209, 38
+  orig: 209, 38
+  offset: 0, 0
+  index: -1
+image/gold/03
+  rotate: true
+  xy: 996, 747
+  size: 275, 17
+  orig: 275, 17
+  offset: 0, 0
+  index: -1
+image/gold/04
+  rotate: true
+  xy: 721, 263
+  size: 311, 106
+  orig: 311, 106
+  offset: 0, 0
+  index: -1
+image/gold/05
+  rotate: false
+  xy: 591, 94
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+image/gold/money
+  rotate: true
+  xy: 609, 282
+  size: 311, 110
+  orig: 311, 110
+  offset: 0, 0
+  index: -1
+image/gold/moneytext
+  rotate: false
+  xy: 591, 62
+  size: 99, 30
+  orig: 99, 30
+  offset: 0, 0
+  index: -1
+image/gold/moneytext2
+  rotate: false
+  xy: 2, 5
+  size: 287, 18
+  orig: 287, 18
+  offset: 0, 0
+  index: -1
+image/gold/moneytitle
+  rotate: true
+  xy: 802, 11
+  size: 209, 39
+  orig: 209, 39
+  offset: 0, 0
+  index: -1
+image/maxlevel/01
+  rotate: false
+  xy: 356, 42
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+image/maxlevel/08
+  rotate: true
+  xy: 512, 286
+  size: 307, 95
+  orig: 307, 95
+  offset: 0, 0
+  index: -1
+image/maxlevel/11
+  rotate: true
+  xy: 843, 4
+  size: 216, 36
+  orig: 216, 36
+  offset: 0, 0
+  index: -1
+image/maxlevel/13
+  rotate: true
+  xy: 899, 535
+  size: 487, 95
+  orig: 487, 95
+  offset: 0, 0
+  index: -1
+image/maxlevel/18y
+  rotate: false
+  xy: 2, 25
+  size: 352, 53
+  orig: 352, 53
+  offset: 0, 0
+  index: -1
+image/maxlevel/20y
+  rotate: true
+  xy: 829, 222
+  size: 352, 53
+  orig: 352, 53
+  offset: 0, 0
+  index: -1
+image/maxlevel/meizi
+  rotate: false
+  xy: 591, 126
+  size: 125, 154
+  orig: 125, 154
+  offset: 0, 0
+  index: -1
+image/weapon/01
+  rotate: false
+  xy: 2, 80
+  size: 537, 204
+  orig: 537, 204
+  offset: 0, 0
+  index: -1
+image/weapon/03
+  rotate: true
+  xy: 541, 57
+  size: 227, 48
+  orig: 227, 48
+  offset: 0, 0
+  index: -1
+image/weapon/04
+  rotate: true
+  xy: 718, 82
+  size: 179, 82
+  orig: 179, 82
+  offset: 0, 0
+  index: -1
+
+payboard2.png
+size: 823,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/defense/04
+  rotate: false
+  xy: 479, 85
+  size: 342, 82
+  orig: 342, 82
+  offset: 0, 0
+  index: -1
+image/maxlevel/03
+  rotate: false
+  xy: 479, 2
+  size: 311, 81
+  orig: 311, 81
+  offset: 0, 0
+  index: -1
+image/weapon/02
+  rotate: false
+  xy: 2, 80
+  size: 475, 87
+  orig: 475, 87
+  offset: 0, 0
+  index: -1
+image/weapon/05
+  rotate: false
+  xy: 2, 30
+  size: 305, 48
+  orig: 305, 48
+  offset: 0, 0
+  index: -1

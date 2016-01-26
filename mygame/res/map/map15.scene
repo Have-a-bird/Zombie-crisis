@@ -1,0 +1,183 @@
+//每个line为一个完整路径
+//由若干个point组成
+<line>
+	<point>
+		position=0,215;
+	</point>
+	<point>
+		position=65,215;
+	
+	</point>
+	<point>
+		position=320,140;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=200,280;
+	</point>
+	<point>
+		position=200,210;
+	
+	</point>
+	<point>
+		position=335,160;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=0,410,75,480;
+	</point>
+	<point>
+		position=300,410;
+	
+	</point>
+	<point>
+		position=300,150;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=250,480;
+	</point>
+	<point>
+		position=310,340;
+	
+	</point>
+	<point>
+		position=420,340,310,200;
+	
+	</point>
+	<point>
+		position=420,200;
+	
+	</point>
+</line>
+<line>
+	<point>
+		position=430,480;
+	</point>
+	<point>
+		position=430,200;
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=640,375;
+	</point>
+	<point>
+		position=640,290;
+	
+	</point>
+	<point>
+		position=500,220;
+		turn=1;
+	
+	</point>
+	<point>
+		position=500,180;
+
+	
+	</point>
+
+</line>
+<line>
+	<point>
+		position=800,280;
+	</point>
+	<point>
+		position=640,250;
+		turn=1;
+	</point>
+	<point>
+		position=640,170;
+
+	
+	</point>
+	<point>
+		position=490,170;
+
+	
+	</point>
+
+</line>
+//宝箱怪路径
+<line>
+	<point>
+		position=0,435;
+	</point>
+	<point>
+		position=410,435;
+	
+	</point>
+	<point>
+		position=410,280;
+
+	
+	</point>
+	<point>
+		position=810,280;
+
+	
+	</point>
+
+</line>
+
+
+
+
+
+
+ 
+//场景内碰撞(会阻挡子弹)
+//由若干个点组成线
+<collision>
+	<ammo>
+		position=0,357,165,391;
+	</ammo>
+	<ammo>
+		position=0,150,172,153,189,190,242,188,258,164;
+	</ammo>
+
+	<ammo>
+		position=519,44,551,44;
+	</ammo>
+	<ammo>
+		position=604,38,624,81,673,82,721,40;
+	</ammo>
+	<ammo>
+		position=721,23,800,23;
+	</ammo>
+	<ammo>
+		position=676,268,797,243;
+	</ammo>
+	<ammo>
+		position=745,278,756,261;
+	</ammo>
+
+	
+</collision>
+//遮挡
+<mask>
+	<bitmap>
+		position=127,262;
+	</bitmap>
+	<bitmap>
+		position=593,371;
+	</bitmap>
+	<bitmap>
+		position=0,343;
+	</bitmap>
+	<bitmap>
+		position=672,180;
+	</bitmap>
+		
+</mask>

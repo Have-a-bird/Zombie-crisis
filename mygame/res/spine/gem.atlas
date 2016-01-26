@@ -1,0 +1,104 @@
+
+gem.png
+size: 108,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiangcm1
+  rotate: true
+  xy: 2, 70
+  size: 32, 50
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangcm2
+  rotate: true
+  xy: 64, 187
+  size: 33, 42
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangcm3
+  rotate: true
+  xy: 54, 6
+  size: 32, 46
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangcm4
+  rotate: true
+  xy: 54, 40
+  size: 32, 50
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangcmk1
+  rotate: true
+  xy: 2, 36
+  size: 32, 50
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangcmk2
+  rotate: false
+  xy: 64, 74
+  size: 37, 49
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangcmk3
+  rotate: true
+  xy: 2, 2
+  size: 32, 50
+  orig: 64, 64
+  offset: 17, 0
+  index: -1
+baoxiangzm1
+  rotate: true
+  xy: 65, 222
+  size: 60, 43
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+baoxiangzm4
+  rotate: true
+  xy: 65, 222
+  size: 60, 43
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+baoxiangzm2
+  rotate: false
+  xy: 2, 104
+  size: 60, 36
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+baoxiangzm3
+  rotate: true
+  xy: 64, 125
+  size: 60, 40
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+baoxiangzmk1
+  rotate: false
+  xy: 2, 189
+  size: 60, 45
+  orig: 64, 64
+  offset: 4, 0
+  index: -1
+baoxiangzmk2
+  rotate: false
+  xy: 2, 236
+  size: 61, 46
+  orig: 64, 64
+  offset: 3, 0
+  index: -1
+baoxiangzmk3
+  rotate: false
+  xy: 2, 142
+  size: 60, 45
+  orig: 64, 64
+  offset: 4, 0
+  index: -1

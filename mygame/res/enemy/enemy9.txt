@@ -1,0 +1,158 @@
+enemy9.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemyzg
+  rotate: false
+  xy: 514, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 3
+enemyzm
+  rotate: false
+  xy: 258, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 4
+enemyzm
+  rotate: false
+  xy: 2, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 8
+enemycm
+  rotate: false
+  xy: 1090, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 2
+enemycg
+  rotate: false
+  xy: 1346, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 1
+enemycm
+  rotate: false
+  xy: 834, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 6
+enemyzm
+  rotate: false
+  xy: 194, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 5
+enemyzm
+  rotate: false
+  xy: 450, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 1
+enemycm
+  rotate: false
+  xy: 1026, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 3
+enemycg
+  rotate: false
+  xy: 1282, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 2
+enemycm
+  rotate: false
+  xy: 770, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 7
+enemyzg
+  rotate: false
+  xy: 642, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 1
+enemyzm
+  rotate: false
+  xy: 386, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 2
+enemyzm
+  rotate: false
+  xy: 130, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 6
+enemycg
+  rotate: false
+  xy: 1218, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 3
+enemycm
+  rotate: false
+  xy: 962, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 4
+enemycm
+  rotate: false
+  xy: 706, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 8
+enemyzg
+  rotate: false
+  xy: 578, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 2
+enemyzm
+  rotate: false
+  xy: 322, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 3
+enemyzm
+  rotate: false
+  xy: 66, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 7
+enemycm
+  rotate: false
+  xy: 898, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 5
+enemycm
+  rotate: false
+  xy: 1154, 2
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: 1

@@ -1,0 +1,88 @@
+bossBullet4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blockA_
+  rotate: false
+  xy: 41, 94
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: 2
+blockA_
+  rotate: false
+  xy: 1, 94
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: 3
+blockA_
+  rotate: false
+  xy: 79, 99
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: 1
+blockB_
+  rotate: false
+  xy: 51, 1
+  size: 47, 50
+  orig: 49, 50
+  offset: 2, 0
+  index: 2
+blockB_
+  rotate: false
+  xy: 1, 1
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: 1
+zidanA_
+  rotate: false
+  xy: 1, 135
+  size: 19, 95
+  orig: 19, 95
+  offset: 0, 0
+  index: 2
+blockA_
+  rotate: false
+  xy: 1, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: 6
+zidanA_
+  rotate: false
+  xy: 21, 135
+  size: 19, 95
+  orig: 19, 95
+  offset: 0, 0
+  index: 1
+blockA_
+  rotate: false
+  xy: 85, 58
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: 4
+zidanB_
+  rotate: false
+  xy: 99, 1
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: 1
+blockA_
+  rotate: false
+  xy: 43, 52
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: 5
+wfireA
+  rotate: false
+  xy: 41, 132
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+giftBoxIcon.png
+size: 101,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+giftParticleBox
+  rotate: false
+  xy: 2, 2
+  size: 97, 93
+  orig: 97, 93
+  offset: 0, 0
+  index: -1

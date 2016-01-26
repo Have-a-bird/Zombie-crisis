@@ -1,0 +1,396 @@
+skill.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1Burn
+  rotate: false
+  xy: 1155, 422
+  size: 92, 120
+  orig: 92, 120
+  offset: 0, 0
+  index: 5
+skill_2_2
+  rotate: false
+  xy: 788, 722
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: 3
+skill3Explode
+  rotate: false
+  xy: 2, 728
+  size: 220, 227
+  orig: 220, 227
+  offset: 0, 0
+  index: 1
+skill_3_1
+  rotate: false
+  xy: 495, 941
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: 3
+skill1Explode
+  rotate: false
+  xy: 874, 476
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: 7
+skill1Burn
+  rotate: false
+  xy: 816, 807
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: 6
+skill_1_2
+  rotate: false
+  xy: 434, 900
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: 2
+skill_3_2
+  rotate: false
+  xy: 945, 929
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: 4
+skill3Explode
+  rotate: false
+  xy: 680, 684
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: 7
+skill_3_2
+  rotate: false
+  xy: 1203, 930
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: 1
+skill1Bomb
+  rotate: false
+  xy: 224, 728
+  size: 77, 242
+  orig: 77, 242
+  offset: 0, 0
+  index: 2
+burnDie
+  rotate: false
+  xy: 1233, 765
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: 6
+skill1Explode
+  rotate: false
+  xy: 303, 726
+  size: 159, 172
+  orig: 159, 172
+  offset: 0, 0
+  index: 4
+skill_1_1
+  rotate: false
+  xy: 816, 929
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: 1
+skill_3_2
+  rotate: false
+  xy: 1011, 929
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: 3
+burnDie
+  rotate: false
+  xy: 559, 867
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: 4
+skill1Burn
+  rotate: false
+  xy: 1020, 807
+  size: 94, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: 2
+skill3Explode
+  rotate: false
+  xy: 858, 242
+  size: 195, 232
+  orig: 195, 232
+  offset: 0, 0
+  index: 4
+skill3Bomb
+  rotate: false
+  xy: 74, 957
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+burnDie
+  rotate: false
+  xy: 1043, 767
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: 7
+skill_1_1
+  rotate: false
+  xy: 1182, 856
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: 3
+skill1Explode
+  rotate: false
+  xy: 629, 484
+  size: 170, 198
+  orig: 170, 198
+  offset: 0, 0
+  index: 5
+skill1Burn
+  rotate: false
+  xy: 1178, 765
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: 8
+skill_2_1
+  rotate: false
+  xy: 495, 867
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: 2
+skill_1_2
+  rotate: false
+  xy: 1043, 663
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: 4
+burnDie
+  rotate: false
+  xy: 1213, 544
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: 5
+skill_1_2
+  rotate: false
+  xy: 1116, 765
+  size: 60, 89
+  orig: 60, 89
+  offset: 0, 0
+  index: 1
+skill3Explode
+  rotate: false
+  xy: 1071, 2
+  size: 193, 214
+  orig: 193, 214
+  offset: 0, 0
+  index: 5
+skill1Explode
+  rotate: false
+  xy: 464, 701
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: 2
+skill1Burn
+  rotate: false
+  xy: 1145, 544
+  size: 66, 117
+  orig: 66, 117
+  offset: 0, 0
+  index: 7
+skill_1_2
+  rotate: false
+  xy: 1109, 663
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: 3
+burnDie
+  rotate: false
+  xy: 38, 957
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: 2
+skill1Burn
+  rotate: false
+  xy: 1050, 544
+  size: 93, 117
+  orig: 93, 117
+  offset: 0, 0
+  index: 4
+skill_2_2
+  rotate: false
+  xy: 1077, 929
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: 2
+skill3Explode
+  rotate: false
+  xy: 858, 2
+  size: 211, 238
+  orig: 211, 238
+  offset: 0, 0
+  index: 2
+skill_3_1
+  rotate: false
+  xy: 556, 941
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: 2
+skill1Bomb
+  rotate: false
+  xy: 610, 701
+  size: 68, 238
+  orig: 68, 238
+  offset: 0, 0
+  index: 3
+skill1Burn
+  rotate: false
+  xy: 918, 807
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: 1
+skill1Explode
+  rotate: false
+  xy: 874, 641
+  size: 167, 164
+  orig: 167, 164
+  offset: 0, 0
+  index: 3
+skillPoint
+  rotate: false
+  xy: 2, 484
+  size: 238, 242
+  orig: 238, 242
+  offset: 0, 0
+  index: -1
+skill2Effect
+  rotate: false
+  xy: 2, 2
+  size: 854, 480
+  orig: 854, 480
+  offset: 0, 0
+  index: -1
+burnDie
+  rotate: false
+  xy: 2, 957
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: 3
+skill_2_1
+  rotate: false
+  xy: 1116, 856
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: 1
+skill1Burn
+  rotate: false
+  xy: 1055, 422
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: 3
+skill3Explode
+  rotate: false
+  xy: 242, 484
+  size: 202, 240
+  orig: 202, 240
+  offset: 0, 0
+  index: 3
+skill1Bomb_1 
+  rotate: false
+  xy: 801, 484
+  size: 71, 236
+  orig: 71, 236
+  offset: 0, 0
+  index: -1
+skill_3_2
+  rotate: false
+  xy: 369, 900
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: 2
+burnDie
+  rotate: false
+  xy: 1213, 599
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: 1
+skill_1_2
+  rotate: false
+  xy: 1174, 663
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: 5
+skill_1_1
+  rotate: false
+  xy: 303, 900
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: 2
+skill_2_2
+  rotate: false
+  xy: 882, 929
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: 4
+skill1Explode
+  rotate: false
+  xy: 446, 484
+  size: 181, 215
+  orig: 181, 215
+  offset: 0, 0
+  index: 6
+skill_2_2
+  rotate: false
+  xy: 1138, 930
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: 1
+skill_3_1
+  rotate: false
+  xy: 617, 941
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: 1
+skill1Explode
+  rotate: false
+  xy: 680, 816
+  size: 134, 151
+  orig: 134, 151
+  offset: 0, 0
+  index: 1
+skill3Explode
+  rotate: false
+  xy: 1071, 218
+  size: 193, 202
+  orig: 193, 202
+  offset: 0, 0
+  index: 6

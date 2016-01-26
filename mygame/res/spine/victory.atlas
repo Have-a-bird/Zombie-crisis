@@ -1,0 +1,27 @@
+
+victory.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gameWinBg
+  rotate: true
+  xy: 1, 89
+  size: 304, 704
+  orig: 304, 704
+  offset: 0, 0
+  index: -1
+gameWinText
+  rotate: false
+  xy: 1, 1
+  size: 206, 87
+  orig: 206, 87
+  offset: 0, 0
+  index: -1
+radiate
+  rotate: false
+  xy: 1, 394
+  size: 557, 552
+  orig: 557, 552
+  offset: 0, 0
+  index: -1

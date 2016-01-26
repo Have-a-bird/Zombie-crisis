@@ -1,0 +1,27 @@
+
+startBtn.png
+size: 377,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fmksan
+  rotate: false
+  xy: 2, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+fmksan2
+  rotate: false
+  xy: 130, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+wh
+  rotate: false
+  xy: 258, 14
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1

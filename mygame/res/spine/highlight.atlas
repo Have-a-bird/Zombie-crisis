@@ -1,0 +1,20 @@
+
+highlight.png
+size: 88,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+itemFrameNow
+  rotate: false
+  xy: 0, 0
+  size: 69, 65
+  orig: 75, 70
+  offset: 3, 2
+  index: -1
+light
+  rotate: false
+  xy: 70, 48
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
